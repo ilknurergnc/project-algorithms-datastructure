@@ -4,11 +4,11 @@
 
 ` [22,27,16,2,18,6] ` 
 
-  1. Write the stages of the above given sequence according to the "Insertion Sort" type.
+    1. Write the stages of the above given sequence according to the "Insertion Sort" type.
 
-  2. Write the Big-O notation.
+    2. Write the Big-O notation.
 
-  3. Time Complexity: After sorting the array, which case does the number 18 belong to ?
+    3. Time Complexity: After sorting the array, which case does the number 18 belong to ?
 
     - Avarage case: If the number we are looking for is in the middle, this is the case we will use
     - Worst case: This is the case we will use if the number we are looking for is at the end of the array
@@ -41,7 +41,7 @@
 2. Insertion sort Big-O notation is :  
 
 - Worst case : O ( $n^2$ )
-- Avarage case : O ($n^2$)
+- Avarage case : O ( $n^2$ )
 - Best case : O ( n )
 
 3. Since the number 18 is in the middle of the array, it is included in the **Average Case**.
