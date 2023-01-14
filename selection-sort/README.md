@@ -4,7 +4,7 @@
 
 ` [22,27,16,2,18,6] ` 
 
-    1. Write the stages of the above given sequence according to the "Insertion Sort" type.
+    1. Write the stages of the above given array according to the "Insertion Sort" type.
 
     2. Write the Big-O notation.
 
